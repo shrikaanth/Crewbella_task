@@ -1,0 +1,235 @@
+{
+    "basic": {
+      "bio": "", 
+      "cover": "https://crewbella.s3.ap-south-1.amazonaws.com/img/default/cover.jpg", 
+      "created_at": "Thu, 01 Oct 2020 06:31:23 GMT", 
+      "dob": "1998-12-28", 
+      "facebook": "", 
+      "followings": 10, 
+      "fullname": "Chirag Balani", 
+      "image": "https://crewbella.s3.ap-south-1.amazonaws.com/img/profiles/thumbnail/2_082f840a25435f461c0cd48ba63f410a8954077c4fc7bbd9a51448.jpg", 
+      "image_hd": "https://crewbella.s3.ap-south-1.amazonaws.com/img/profiles/image/2_082f840a25435f461c0cd48ba63f410a8954077c4fc7bbd9a51448.jpg", 
+      "instagram": "", 
+      "is_following": false, 
+      "is_verified": false, 
+      "is_working": true, 
+      "linkedin": "", 
+      "name": "Chirag Balani", 
+      "quick_bookings": 0, 
+      "quickbook_verified": true, 
+      "strength": 0, 
+      "twitter": "", 
+      "type_": null, 
+      "user_id": 2, 
+      "username": "chiragbalani", 
+      "visits": 3870, 
+      "website": ""
+    }, 
+    "blogs": [], 
+    "client_postings": [
+      {
+        "budget": 25000, 
+        "budget_cc": "INR", 
+        "created_at": "Tue, 21 Sep 2021 10:59:41 GMT", 
+        "description": "Urgently require a graphic designer to design mockups of home decor products. Will have to report to our Mumbai office. Its a one day job but we can extend it to two days.", 
+        "experience": 5, 
+        "id": 107, 
+        "is_active": false, 
+        "job_type": "Agreement", 
+        "location": "Mumbai", 
+        "openings": 1, 
+        "profession": "Graphic Designer", 
+        "skills": "Adobe Photoshop, Adobe illustrator, Adobe XD, After Effects,", 
+        "time_period": "1 Days", 
+        "time_start": "Tue, 21 Sep 2021 00:00:00 GMT", 
+        "type_": "QUICKBOOK"
+      }, 
+      {
+        "budget": null, 
+        "budget_cc": "INR", 
+        "created_at": "Fri, 11 Jun 2021 11:51:24 GMT", 
+        "description": "Looking for a digital marketing individual or a company to market our Music video on grand platforms. Show me your previous Distribution and promotion work before applying. Need to see the monitization values you can pitch for it.", 
+        "experience": 7, 
+        "id": 66, 
+        "is_active": true, 
+        "job_type": "Agreement", 
+        "location": "Pune, Mumbai", 
+        "openings": 1, 
+        "profession": "Digital Marketing", 
+        "skills": null, 
+        "time_period": null, 
+        "time_start": null, 
+        "type_": "QUICKBOOK"
+      }, 
+      {
+        "budget": null, 
+        "budget_cc": "INR", 
+        "created_at": "Sun, 29 Nov 2020 22:18:10 GMT", 
+        "description": "I'm looking for a web developer for my recently started business.\r\nSomeone who can join the core team.\r\nThe user base has crossed 1.5k in less than a month and we aim to hit 10k by march 2021.", 
+        "experience": 1, 
+        "id": 46, 
+        "is_active": true, 
+        "job_type": "Collaboration", 
+        "location": "Work from Home", 
+        "openings": 1, 
+        "profession": "Web developer", 
+        "skills": "Java , python", 
+        "time_period": "2 Months", 
+        "time_start": null, 
+        "type_": "QUICKBOOK"
+      }, 
+      {
+        "budget": 2000, 
+        "budget_cc": "INR", 
+        "created_at": "Wed, 18 Nov 2020 17:05:13 GMT", 
+        "description": "Need an intern for social media.", 
+        "experience": 1, 
+        "id": 44, 
+        "is_active": false, 
+        "job_type": "Internship", 
+        "location": "Work from Home", 
+        "openings": 1, 
+        "profession": "Graphic Designer", 
+        "skills": "Adobe Photoshop, Adobe illustrator", 
+        "time_period": "1 Months", 
+        "time_start": "Wed, 25 Nov 2020 00:00:00 GMT", 
+        "type_": "QUICKBOOK"
+      }
+    ], 
+    "crew_postings": [], 
+    "events": [
+      {
+        "sku": "g95yk", 
+        "theme": "Culture and Lights", 
+        "thumbnail": "https://crewbella.s3.ap-south-1.amazonaws.com/img/events/photography/thumbnail/2_2caa75f9a85bfa9928a073e1bec3a723fd8fce22cf93522ba5efb2.jpg"
+      }
+    ], 
+    "is_logged_in": false, 
+    "locations": [
+      {
+        "city": "Jaipur", 
+        "country": "India", 
+        "created_at": "Thu, 01 Oct 2020 06:32:24 GMT", 
+        "id": 2, 
+        "is_primary": true, 
+        "state": "Rajasthan", 
+        "zip_code": "302001"
+      }
+    ], 
+    "portfolio": [
+      {
+        "created_at": "Sun, 04 Jul 2021 07:04:58 GMT", 
+        "description": "Director's assistant during the pre-production of the Netflix movie.\r\nWorked on drafting screenplay, shoot script, production design and casting.", 
+        "ended_time": "2019-08-14", 
+        "id": 142, 
+        "images": [
+          {
+            "id": 70, 
+            "image": "https://crewbella.s3.ap-south-1.amazonaws.com/img/portfolios/2_9a0bbb5a17a335bbbf0fe87427daddbdcccc405595b674565ae396.jpeg"
+          }
+        ], 
+        "link": "", 
+        "position": "Director's Assistant", 
+        "project_name": "Mismatched", 
+        "started_time": "2019-06-01"
+      }, 
+      {
+        "created_at": "Sun, 04 Jul 2021 07:01:55 GMT", 
+        "description": "Assisted the Director in Scene Preparation, Artist coordination, maintaining log sheets and prepared shot division with the DOP.\r\n\r\nScript supervision and continuity maintainance was a regular task after first episode.", 
+        "ended_time": "2021-06-05", 
+        "id": 141, 
+        "images": [
+          {
+            "id": 69, 
+            "image": "https://crewbella.s3.ap-south-1.amazonaws.com/img/portfolios/2_4564d79577455077ad7859ad366618fbc4dd9a190a8593cbcf56c5.jpg"
+          }
+        ], 
+        "link": "https://www.mxplayer.in/movie/watch-love-sorries-movie-online-e584b22089a89231841c0715bb57b26a", 
+        "position": "Assistant Director", 
+        "project_name": "Love Sorries", 
+        "started_time": "2019-11-01"
+      }, 
+      {
+        "created_at": "Tue, 19 Jan 2021 09:44:25 GMT", 
+        "description": "Director of the upcoming shortfilm \" Blooming in Dust\"\r\nThe film will be screened at international film fests and would be publicly available on OTT platforms.", 
+        "ended_time": "2021-01-18", 
+        "id": 48, 
+        "images": [
+          {
+            "id": 51, 
+            "image": "https://crewbella.s3.ap-south-1.amazonaws.com/img/portfolios/2_32faafe555c8e6afe3e77cdeb483ffbf13524077780dbb12de3c6e.JPG"
+          }
+        ], 
+        "link": "", 
+        "position": "Director", 
+        "project_name": "Blooming in Rust", 
+        "started_time": "2020-12-01"
+      }
+    ], 
+    "professions": [
+      {
+        "created_at": "Wed, 25 Aug 2021 16:09:27 GMT", 
+        "experience": 0, 
+        "for_quickbook": true, 
+        "id": 3264, 
+        "is_primary": false, 
+        "quickbook_details": {
+          "is_active": true, 
+          "is_flexible": true, 
+          "portfolios_ids": [], 
+          "rate_amount": 200.0, 
+          "rate_currency": "USD", 
+          "rate_duration": "DAY"
+        }, 
+        "title": "Director", 
+        "user_id": 2
+      }, 
+      {
+        "created_at": "Fri, 13 Aug 2021 11:55:35 GMT", 
+        "experience": 5, 
+        "for_quickbook": true, 
+        "id": 3242, 
+        "is_primary": false, 
+        "quickbook_details": {
+          "is_active": true, 
+          "is_flexible": true, 
+          "portfolios_ids": [
+            "142", 
+            "141", 
+            "48"
+          ], 
+          "rate_amount": 5000.0, 
+          "rate_currency": "INR", 
+          "rate_duration": "DAY"
+        }, 
+        "title": "Director", 
+        "user_id": 2
+      }, 
+      {
+        "created_at": "Thu, 01 Oct 2020 06:32:24 GMT", 
+        "experience": 5, 
+        "for_quickbook": false, 
+        "id": 2, 
+        "is_primary": true, 
+        "quickbook_details": null, 
+        "title": "Filmaker", 
+        "user_id": 2
+      }
+    ], 
+    "questions": [
+      {
+        "answer": {
+          "created_at": "Tue, 26 Jan 2021 06:18:28 GMT", 
+          "description": "I think for every contest they have explained the Theme in details. So you might go through the contest rules as there's a new theme every competition", 
+          "id": 10
+        }, 
+        "created_at": "Fri, 22 Jan 2021 13:43:31 GMT", 
+        "description": "", 
+        "id": 16, 
+        "me": false, 
+        "title": "What kind of pictures we can put in the contest"
+      }
+    ], 
+    "skills": [], 
+    "social_hubs": []
+  }
